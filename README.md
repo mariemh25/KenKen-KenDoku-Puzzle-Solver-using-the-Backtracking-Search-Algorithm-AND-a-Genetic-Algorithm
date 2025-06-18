@@ -13,6 +13,9 @@ KenKen is a logical and mathematical puzzle that blends Sudoku with arithmetic o
 
 Example:  
 A cage labeled `6+` in a 4×4 puzzle must be filled with digits (e.g., 1, 2, 3) that sum to 6.
+![KenKen Solver Screenshot](Screenshot%202025-04-24%20143755.png)
+
+
 
 
 
